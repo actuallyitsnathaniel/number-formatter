@@ -1,0 +1,23 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "my first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/actuallyitsnathaniel/number-formatter.git"
+  },
+  "author": "Nathaniel Bowman <nathanielrbowman@gmail.com> (http://actuallyitsnathaniel.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/actuallyitsnathaniel/number-formatter/issues"
+  },
+  "homepage": "https://github.com/actuallyitsnathaniel/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
